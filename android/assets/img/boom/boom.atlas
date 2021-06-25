@@ -1,0 +1,47 @@
+boom.png
+size: 989, 1649
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+boom-0
+  rotate: false
+  xy: 1, 1
+  size: 226, 215
+  orig: 226, 215
+  offset: 0, 0
+  index: -1
+boom-1
+  rotate: false
+  xy: 229, 1
+  size: 251, 236
+  orig: 251, 236
+  offset: 0, 0
+  index: -1
+boom-2
+  rotate: false
+  xy: 1, 414
+  size: 425, 422
+  orig: 425, 422
+  offset: 0, 0
+  index: -1
+boom-3
+  rotate: false
+  xy: 428, 414
+  size: 560, 547
+  orig: 560, 549
+  offset: 0, 0
+  index: -1
+boom-4
+  rotate: false
+  xy: 1, 963
+  size: 716, 685
+  orig: 716, 689
+  offset: 0, 3
+  index: -1
+boom-5
+  rotate: false
+  xy: 482, 1
+  size: 392, 411
+  orig: 401, 422
+  offset: 0, 5
+  index: -1

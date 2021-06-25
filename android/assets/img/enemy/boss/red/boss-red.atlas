@@ -1,0 +1,243 @@
+boss-red.png
+size: 970, 1203
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+idle
+  rotate: false
+  xy: 387, 508
+  size: 187, 170
+  orig: 600, 370
+  offset: 174, 116
+  index: -1
+idle
+  rotate: false
+  xy: 390, 680
+  size: 187, 170
+  orig: 600, 370
+  offset: 174, 115
+  index: -1
+idle
+  rotate: false
+  xy: 1, 680
+  size: 187, 170
+  orig: 600, 370
+  offset: 174, 115
+  index: -1
+idle
+  rotate: false
+  xy: 765, 508
+  size: 187, 170
+  orig: 600, 370
+  offset: 174, 115
+  index: -1
+idle
+  rotate: false
+  xy: 576, 508
+  size: 187, 170
+  orig: 600, 370
+  offset: 174, 115
+  index: -1
+walk
+  rotate: false
+  xy: 391, 853
+  size: 188, 172
+  orig: 600, 370
+  offset: 178, 115
+  index: -1
+walk
+  rotate: false
+  xy: 760, 853
+  size: 187, 172
+  orig: 600, 370
+  offset: 179, 115
+  index: -1
+walk
+  rotate: false
+  xy: 1, 853
+  size: 191, 171
+  orig: 600, 370
+  offset: 179, 115
+  index: -1
+walk
+  rotate: false
+  xy: 583, 1027
+  size: 191, 172
+  orig: 600, 370
+  offset: 179, 115
+  index: -1
+walk
+  rotate: false
+  xy: 1, 1027
+  size: 187, 172
+  orig: 600, 370
+  offset: 179, 115
+  index: -1
+fly
+  rotate: false
+  xy: 638, 165
+  size: 189, 169
+  orig: 600, 370
+  offset: 204, 126
+  index: -1
+fly
+  rotate: false
+  xy: 427, 165
+  size: 209, 169
+  orig: 600, 370
+  offset: 196, 123
+  index: -1
+fly
+  rotate: false
+  xy: 1, 165
+  size: 213, 167
+  orig: 600, 370
+  offset: 203, 121
+  index: -1
+fly
+  rotate: false
+  xy: 216, 165
+  size: 209, 169
+  orig: 600, 370
+  offset: 196, 123
+  index: -1
+jump
+  rotate: false
+  xy: 190, 680
+  size: 198, 170
+  orig: 600, 370
+  offset: 169, 116
+  index: -1
+jump
+  rotate: false
+  xy: 579, 680
+  size: 187, 170
+  orig: 600, 370
+  offset: 168, 129
+  index: -1
+jump
+  rotate: false
+  xy: 581, 853
+  size: 177, 172
+  orig: 600, 370
+  offset: 175, 146
+  index: -1
+jump
+  rotate: false
+  xy: 404, 1027
+  size: 177, 172
+  orig: 600, 370
+  offset: 175, 146
+  index: -1
+jump
+  rotate: false
+  xy: 1, 336
+  size: 187, 169
+  orig: 600, 370
+  offset: 168, 130
+  index: -1
+attack
+  rotate: false
+  xy: 190, 336
+  size: 186, 170
+  orig: 600, 370
+  offset: 173, 114
+  index: -1
+attack
+  rotate: false
+  xy: 776, 1027
+  size: 193, 175
+  orig: 600, 370
+  offset: 171, 113
+  index: -1
+attack
+  rotate: false
+  xy: 190, 1027
+  size: 212, 172
+  orig: 600, 370
+  offset: 178, 114
+  index: -1
+attack
+  rotate: false
+  xy: 194, 853
+  size: 195, 171
+  orig: 600, 370
+  offset: 176, 114
+  index: -1
+attack
+  rotate: false
+  xy: 568, 336
+  size: 189, 170
+  orig: 600, 370
+  offset: 174, 114
+  index: -1
+hurt
+  rotate: false
+  xy: 378, 336
+  size: 188, 170
+  orig: 600, 370
+  offset: 174, 115
+  index: -1
+hurt
+  rotate: false
+  xy: 1, 508
+  size: 211, 170
+  orig: 600, 370
+  offset: 176, 113
+  index: -1
+hurt
+  rotate: false
+  xy: 518, 1
+  size: 221, 162
+  orig: 600, 370
+  offset: 183, 112
+  index: -1
+hurt
+  rotate: false
+  xy: 741, 1
+  size: 221, 162
+  orig: 600, 370
+  offset: 183, 112
+  index: -1
+hurt
+  rotate: false
+  xy: 759, 336
+  size: 210, 170
+  orig: 600, 370
+  offset: 176, 113
+  index: -1
+hurt
+  rotate: false
+  xy: 214, 508
+  size: 171, 170
+  orig: 600, 370
+  offset: 187, 115
+  index: -1
+die
+  rotate: false
+  xy: 768, 680
+  size: 164, 171
+  orig: 600, 370
+  offset: 208, 113
+  index: -1
+die
+  rotate: false
+  xy: 350, 1
+  size: 166, 153
+  orig: 600, 370
+  offset: 240, 112
+  index: -1
+die
+  rotate: false
+  xy: 182, 1
+  size: 166, 118
+  orig: 600, 370
+  offset: 260, 112
+  index: -1
+die
+  rotate: false
+  xy: 6, 1
+  size: 174, 106
+  orig: 600, 370
+  offset: 263, 102
+  index: -1

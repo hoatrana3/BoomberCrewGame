@@ -1,0 +1,61 @@
+explosion_boss_violet.png
+size: 1201, 1493
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+explosion-0
+  rotate: false
+  xy: 0, 0
+  size: 253, 542
+  orig: 264, 548
+  offset: 6, 5
+  index: -1
+explosion-1
+  rotate: false
+  xy: 253, 0
+  size: 271, 640
+  orig: 274, 645
+  offset: 3, 3
+  index: -1
+explosion-2
+  rotate: false
+  xy: 524, 0
+  size: 298, 625
+  orig: 300, 629
+  offset: 1, 0
+  index: -1
+explosion-3
+  rotate: false
+  xy: 822, 0
+  size: 289, 712
+  orig: 294, 716
+  offset: 5, 1
+  index: -1
+explosion-4
+  rotate: false
+  xy: 0, 712
+  size: 296, 746
+  orig: 303, 754
+  offset: 7, 0
+  index: -1
+explosion-5
+  rotate: false
+  xy: 296, 712
+  size: 295, 781
+  orig: 307, 790
+  offset: 9, 7
+  index: -1
+explosion-6
+  rotate: false
+  xy: 591, 712
+  size: 304, 722
+  orig: 314, 727
+  offset: 6, 5
+  index: -1
+explosion-7
+  rotate: false
+  xy: 895, 712
+  size: 306, 727
+  orig: 325, 739
+  offset: 13, 10
+  index: -1

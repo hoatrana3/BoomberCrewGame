@@ -1,0 +1,181 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<map version="1.2" tiledversion="1.2.0" orientation="orthogonal" renderorder="right-down" width="20" height="30" tilewidth="36" tileheight="36" infinite="0" nextlayerid="19" nextobjectid="7">
+ <tileset firstgid="1" name="objectsTileset" tilewidth="36" tileheight="36" tilecount="28" columns="28">
+  <image source="../objectsTileset.png" width="1008" height="36"/>
+  <tile id="0">
+   <properties>
+    <property name="BRICK" value="0"/>
+   </properties>
+  </tile>
+  <tile id="1">
+   <properties>
+    <property name="BRICK" value="0"/>
+   </properties>
+  </tile>
+  <tile id="2">
+   <properties>
+    <property name="BRICK" value="0"/>
+   </properties>
+  </tile>
+  <tile id="3">
+   <properties>
+    <property name="BRICK" value="0"/>
+   </properties>
+  </tile>
+  <tile id="4">
+   <properties>
+    <property name="BRICK" value="0"/>
+   </properties>
+  </tile>
+  <tile id="5">
+   <properties>
+    <property name="BRICK" value="0"/>
+   </properties>
+  </tile>
+  <tile id="6">
+   <properties>
+    <property name="BRICK" value="0"/>
+   </properties>
+  </tile>
+  <tile id="7">
+   <properties>
+    <property name="BRICK" value="0"/>
+   </properties>
+  </tile>
+  <tile id="15">
+   <properties>
+    <property name="WALL" value="1"/>
+   </properties>
+  </tile>
+  <tile id="16">
+   <properties>
+    <property name="WALL" value="1"/>
+   </properties>
+  </tile>
+  <tile id="17">
+   <properties>
+    <property name="WALL" value="1"/>
+   </properties>
+  </tile>
+  <tile id="18">
+   <properties>
+    <property name="WALL" value="1"/>
+   </properties>
+  </tile>
+  <tile id="19">
+   <properties>
+    <property name="WALL" value="1"/>
+   </properties>
+  </tile>
+  <tile id="20">
+   <properties>
+    <property name="WALL" value="1"/>
+   </properties>
+  </tile>
+  <tile id="21">
+   <properties>
+    <property name="WALL" value="1"/>
+   </properties>
+  </tile>
+  <tile id="22">
+   <properties>
+    <property name="WALL" value="1"/>
+   </properties>
+  </tile>
+  <tile id="23">
+   <properties>
+    <property name="WOOD" value="2"/>
+   </properties>
+  </tile>
+  <tile id="24">
+   <properties>
+    <property name="WOOD" value="2"/>
+   </properties>
+  </tile>
+  <tile id="25">
+   <properties>
+    <property name="WOOD" value="2"/>
+   </properties>
+  </tile>
+  <tile id="26">
+   <properties>
+    <property name="WOOD" value="2"/>
+   </properties>
+  </tile>
+  <tile id="27">
+   <properties>
+    <property name="WOOD" value="2"/>
+   </properties>
+  </tile>
+ </tileset>
+ <tileset firstgid="29" source="../enemytile.tsx"/>
+ <layer id="17" name="tile-ground" width="20" height="30">
+  <data encoding="csv">
+9,9,9,9,9,9,9,9,0,0,9,9,9,9,9,9,9,9,9,9,
+9,9,9,9,9,9,9,9,0,0,9,9,9,9,9,9,9,9,9,9,
+9,9,9,9,9,9,9,9,0,0,9,9,9,9,9,9,9,9,9,9,
+9,9,9,9,9,9,9,9,0,0,9,9,9,9,9,9,9,9,9,9,
+9,9,9,9,9,9,9,9,0,0,9,9,9,9,9,9,9,9,9,9,
+9,9,9,9,9,9,9,9,0,0,9,9,9,9,9,9,9,9,9,9,
+9,9,9,9,9,9,9,9,0,0,9,9,9,9,9,9,9,9,9,9,
+0,9,9,9,9,9,9,0,0,0,0,0,0,9,9,9,9,9,9,0,
+0,9,9,9,9,9,9,0,0,0,0,0,0,9,9,9,9,9,9,0,
+0,9,9,9,9,9,9,0,0,0,0,0,0,9,9,9,9,9,9,0,
+0,9,9,9,9,9,9,0,0,0,0,0,0,9,9,9,9,9,9,0,
+0,9,9,9,9,9,9,0,0,0,0,0,0,9,9,9,9,9,9,0,
+0,9,9,9,9,9,9,9,9,9,9,9,9,9,9,9,9,9,9,0,
+0,9,9,9,9,9,9,9,9,9,9,9,9,9,9,9,9,9,9,0,
+0,9,9,9,9,9,9,9,9,9,9,9,9,9,9,9,9,9,9,0,
+0,9,9,9,9,9,9,9,9,9,9,9,9,9,9,9,9,9,9,0,
+0,9,9,9,9,9,9,0,0,0,0,0,0,9,9,9,9,9,9,0,
+0,9,9,9,9,9,9,0,0,0,0,0,0,9,9,9,9,9,9,0,
+0,9,9,9,9,9,9,0,0,0,0,0,0,9,9,9,9,9,9,0,
+0,9,9,9,9,9,9,0,0,0,0,0,0,9,9,9,9,9,9,0,
+0,9,9,9,9,9,9,0,0,0,0,0,0,9,9,9,9,9,9,0,
+0,9,9,9,9,9,9,0,0,0,0,0,0,9,9,9,9,9,9,0,
+0,9,9,9,9,9,9,0,0,0,0,0,0,9,9,9,9,9,9,0,
+9,9,9,9,9,9,9,9,9,9,9,9,9,9,9,9,9,9,9,9,
+9,9,9,9,9,9,9,9,9,9,9,9,9,9,9,9,9,9,9,9,
+9,9,9,9,9,9,9,9,9,9,9,9,9,9,9,9,9,9,9,9,
+9,9,9,9,9,9,9,9,9,9,9,9,9,9,9,9,9,9,9,9,
+9,9,9,9,9,9,9,9,9,9,9,9,9,9,9,9,9,9,9,9,
+9,9,9,9,9,9,9,9,9,9,9,9,9,9,9,9,9,9,9,9,
+9,9,9,9,9,9,9,9,9,9,9,9,9,9,9,9,9,9,9,9
+</data>
+ </layer>
+ <layer id="18" name="tile-entities" width="20" height="30">
+  <data encoding="csv">
+20,20,20,20,20,20,20,20,0,0,20,20,20,20,20,20,20,20,20,20,
+20,0,0,0,0,0,0,20,0,0,20,0,0,0,0,0,0,0,0,20,
+20,0,0,0,0,0,0,20,0,0,37,0,0,0,0,31,0,0,0,20,
+20,0,0,8,26,0,0,20,0,0,20,0,0,26,8,0,0,0,0,20,
+20,0,0,8,26,0,0,20,0,0,20,0,0,26,8,0,0,0,0,36,
+20,0,0,0,0,0,0,20,0,0,20,0,0,8,8,0,0,0,0,20,
+20,20,8,8,8,8,20,20,0,0,20,20,20,20,8,8,8,8,20,20,
+0,20,0,0,0,0,20,0,0,0,0,0,0,20,0,26,0,0,20,0,
+0,37,0,0,0,0,20,0,0,0,0,0,0,20,0,8,0,0,36,0,
+0,20,0,8,8,0,20,0,0,0,0,0,0,20,0,26,0,0,20,0,
+0,20,0,0,0,31,20,0,0,0,0,0,0,20,0,8,0,0,36,0,
+0,37,0,0,0,0,20,0,0,0,0,0,0,20,0,0,26,0,20,0,
+0,20,0,8,8,0,20,20,20,20,20,20,20,20,0,0,8,0,36,0,
+0,20,0,0,0,0,8,0,0,0,30,8,26,8,0,0,26,0,20,0,
+0,37,0,0,0,0,26,8,26,0,0,0,0,26,0,0,8,0,36,0,
+0,20,0,8,8,0,20,20,20,20,20,20,20,20,31,26,0,0,20,0,
+0,20,0,0,0,0,20,0,0,0,0,0,0,20,0,8,0,0,36,0,
+0,37,0,0,0,0,20,0,0,0,0,0,0,20,0,26,0,0,20,0,
+0,20,0,8,8,0,20,0,0,0,0,0,0,20,0,8,0,0,36,0,
+0,20,0,0,0,0,20,0,0,0,0,0,0,20,0,0,26,0,20,0,
+0,37,0,0,0,0,20,0,0,0,0,0,0,20,0,0,8,0,36,0,
+0,20,0,8,8,0,20,0,0,0,0,0,0,20,0,0,26,0,20,0,
+0,37,0,0,0,0,20,0,0,0,0,0,0,20,0,0,8,0,36,0,
+20,20,26,26,20,20,20,20,20,20,20,20,20,20,20,20,26,26,20,20,
+20,0,0,0,0,0,0,0,0,26,26,0,0,0,0,0,0,0,0,20,
+20,0,0,0,26,26,0,0,8,0,0,8,0,0,26,26,0,0,33,20,
+20,33,0,8,0,0,8,0,0,8,8,31,0,8,0,0,8,0,0,20,
+20,0,0,0,8,8,0,0,26,0,0,26,0,0,8,8,0,0,0,20,
+20,0,0,26,0,0,26,0,0,26,26,0,0,26,0,0,26,0,0,20,
+20,20,20,20,20,20,20,20,20,20,20,20,20,20,20,20,20,20,20,20
+</data>
+ </layer>
+ <objectgroup id="9" name="collision-layer"/>
+</map>

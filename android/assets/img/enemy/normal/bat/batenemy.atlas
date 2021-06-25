@@ -1,0 +1,61 @@
+batenemy.png
+size: 1364, 378
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+front
+  rotate: false
+  xy: 0, 0
+  size: 368, 189
+  orig: 800, 600
+  offset: 216, 206
+  index: -1
+front
+  rotate: false
+  xy: 736, 0
+  size: 314, 189
+  orig: 800, 600
+  offset: 243, 206
+  index: -1
+front
+  rotate: false
+  xy: 0, 189
+  size: 368, 189
+  orig: 800, 600
+  offset: 216, 206
+  index: -1
+front
+  rotate: false
+  xy: 736, 189
+  size: 314, 189
+  orig: 800, 600
+  offset: 243, 206
+  index: -1
+front
+  rotate: false
+  xy: 368, 0
+  size: 368, 189
+  orig: 800, 600
+  offset: 216, 206
+  index: -1
+front
+  rotate: false
+  xy: 1050, 0
+  size: 314, 189
+  orig: 800, 600
+  offset: 243, 206
+  index: -1
+front
+  rotate: false
+  xy: 368, 189
+  size: 368, 189
+  orig: 800, 600
+  offset: 216, 206
+  index: -1
+front
+  rotate: false
+  xy: 1050, 189
+  size: 314, 189
+  orig: 800, 600
+  offset: 243, 206
+  index: -1

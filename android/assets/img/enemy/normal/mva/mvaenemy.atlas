@@ -1,0 +1,89 @@
+mvaenemy.png
+size: 734, 1627
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+left
+  rotate: false
+  xy: 1, 1
+  size: 365, 327
+  orig: 365, 327
+  offset: 0, 0
+  index: -1
+left
+  rotate: false
+  xy: 368, 1
+  size: 365, 325
+  orig: 365, 325
+  offset: 0, 0
+  index: -1
+left
+  rotate: false
+  xy: 1, 657
+  size: 365, 323
+  orig: 365, 323
+  offset: 0, 0
+  index: -1
+left
+  rotate: false
+  xy: 1, 982
+  size: 365, 321
+  orig: 365, 321
+  offset: 0, 0
+  index: -1
+left
+  rotate: false
+  xy: 1, 1305
+  size: 365, 321
+  orig: 365, 321
+  offset: 0, 0
+  index: -1
+left
+  rotate: false
+  xy: 368, 980
+  size: 365, 323
+  orig: 365, 323
+  offset: 0, 0
+  index: -1
+left
+  rotate: false
+  xy: 1, 330
+  size: 365, 325
+  orig: 365, 325
+  offset: 0, 0
+  index: -1
+left
+  rotate: false
+  xy: 368, 980
+  size: 365, 323
+  orig: 365, 323
+  offset: 0, 0
+  index: -1
+left
+  rotate: false
+  xy: 1, 1305
+  size: 365, 321
+  orig: 365, 321
+  offset: 0, 0
+  index: -1
+left
+  rotate: false
+  xy: 368, 1305
+  size: 365, 321
+  orig: 365, 321
+  offset: 0, 0
+  index: -1
+left0
+  rotate: false
+  xy: 368, 655
+  size: 365, 323
+  orig: 365, 323
+  offset: 0, 0
+  index: -1
+left1
+  rotate: false
+  xy: 368, 328
+  size: 365, 325
+  orig: 365, 325
+  offset: 0, 0
+  index: -1

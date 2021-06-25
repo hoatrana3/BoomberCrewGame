@@ -1,0 +1,89 @@
+fireenemy.png
+size: 911, 1017
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+firer
+  rotate: false
+  xy: 0, 0
+  size: 303, 242
+  orig: 303, 242
+  offset: 0, 0
+  index: -1
+firer
+  rotate: false
+  xy: 607, 0
+  size: 304, 244
+  orig: 304, 244
+  offset: 0, 0
+  index: -1
+firer
+  rotate: false
+  xy: 303, 244
+  size: 303, 246
+  orig: 303, 246
+  offset: 0, 0
+  index: -1
+firer
+  rotate: false
+  xy: 606, 244
+  size: 300, 250
+  orig: 300, 250
+  offset: 0, 0
+  index: -1
+firer
+  rotate: false
+  xy: 594, 494
+  size: 294, 255
+  orig: 294, 255
+  offset: 0, 0
+  index: -1
+firer
+  rotate: false
+  xy: 291, 749
+  size: 291, 261
+  orig: 291, 261
+  offset: 0, 0
+  index: -1
+firer
+  rotate: false
+  xy: 582, 749
+  size: 299, 268
+  orig: 299, 268
+  offset: 0, 0
+  index: -1
+firer
+  rotate: false
+  xy: 0, 749
+  size: 291, 261
+  orig: 291, 261
+  offset: 0, 0
+  index: -1
+firer
+  rotate: false
+  xy: 300, 494
+  size: 294, 255
+  orig: 294, 255
+  offset: 0, 0
+  index: -1
+firer
+  rotate: false
+  xy: 0, 494
+  size: 300, 250
+  orig: 300, 250
+  offset: 0, 0
+  index: -1
+firer
+  rotate: false
+  xy: 0, 244
+  size: 303, 246
+  orig: 303, 246
+  offset: 0, 0
+  index: -1
+firer
+  rotate: false
+  xy: 303, 0
+  size: 304, 244
+  orig: 304, 244
+  offset: 0, 0
+  index: -1

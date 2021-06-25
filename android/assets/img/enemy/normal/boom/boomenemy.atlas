@@ -1,0 +1,89 @@
+boomenemy.png
+size: 996, 1305
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+left
+  rotate: false
+  xy: 666, 970
+  size: 330, 335
+  orig: 330, 335
+  offset: 0, 0
+  index: -1
+left
+  rotate: false
+  xy: 0, 644
+  size: 325, 325
+  orig: 325, 325
+  offset: 0, 0
+  index: -1
+left
+  rotate: false
+  xy: 0, 970
+  size: 333, 329
+  orig: 333, 329
+  offset: 0, 0
+  index: -1
+left
+  rotate: false
+  xy: 654, 0
+  size: 325, 319
+  orig: 325, 319
+  offset: 0, 0
+  index: -1
+left
+  rotate: false
+  xy: 659, 319
+  size: 334, 325
+  orig: 334, 325
+  offset: 0, 0
+  index: -1
+left
+  rotate: false
+  xy: 0, 0
+  size: 327, 318
+  orig: 327, 318
+  offset: 0, 0
+  index: -1
+left
+  rotate: false
+  xy: 650, 644
+  size: 332, 326
+  orig: 332, 326
+  offset: 0, 0
+  index: -1
+left
+  rotate: false
+  xy: 327, 0
+  size: 327, 318
+  orig: 327, 318
+  offset: 0, 0
+  index: -1
+left
+  rotate: false
+  xy: 325, 319
+  size: 334, 325
+  orig: 334, 325
+  offset: 0, 0
+  index: -1
+left
+  rotate: false
+  xy: 0, 319
+  size: 325, 319
+  orig: 325, 319
+  offset: 0, 0
+  index: -1
+left
+  rotate: false
+  xy: 333, 970
+  size: 333, 329
+  orig: 333, 329
+  offset: 0, 0
+  index: -1
+left
+  rotate: false
+  xy: 325, 644
+  size: 325, 325
+  orig: 325, 325
+  offset: 0, 0
+  index: -1

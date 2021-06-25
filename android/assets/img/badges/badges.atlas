@@ -1,0 +1,61 @@
+badges.png
+size: 1812, 996
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+1
+  rotate: false
+  xy: 0, 452
+  size: 403, 452
+  orig: 403, 452
+  offset: 0, 0
+  index: -1
+2
+  rotate: false
+  xy: 448, 0
+  size: 416, 442
+  orig: 416, 442
+  offset: 0, 0
+  index: -1
+3
+  rotate: false
+  xy: 0, 0
+  size: 448, 429
+  orig: 448, 429
+  offset: 0, 0
+  index: -1
+4
+  rotate: false
+  xy: 403, 452
+  size: 428, 457
+  orig: 428, 457
+  offset: 0, 0
+  index: -1
+5
+  rotate: false
+  xy: 1302, 0
+  size: 444, 452
+  orig: 444, 452
+  offset: 0, 0
+  index: -1
+6
+  rotate: false
+  xy: 864, 0
+  size: 438, 445
+  orig: 438, 445
+  offset: 0, 0
+  index: -1
+7
+  rotate: false
+  xy: 831, 452
+  size: 479, 531
+  orig: 479, 531
+  offset: 0, 0
+  index: -1
+8
+  rotate: false
+  xy: 1310, 452
+  size: 502, 544
+  orig: 502, 544
+  offset: 0, 0
+  index: -1
